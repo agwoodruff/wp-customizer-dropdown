@@ -1,0 +1,45 @@
+.service-customizer-div {
+    background-color: rgb(212, 212, 212);
+    margin-top: 5%;
+}
+
+.title-and-delete {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5%;
+}
+
+.title-and-delete h3 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.custom-input-div {
+    padding: 5%;
+}
+
+.service-customizer-div span {
+    color: black;
+}
+
+.service-customizer-div span.customize-control-title {
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+
+.service-customizer-div span.customize-control-title:first-of-type {
+    margin-top: 0;
+}
+
+.add-service {
+    margin-top: 5% !important;
+}
+
+.custom-icon {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: baseline;
+}
